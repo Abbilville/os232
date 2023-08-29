@@ -1,5 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode: 
+# LogCode: https://github.com/Abbilville/os232/blob/main/TXT/logCodes
 
 ZCZC W00 10 L04 Github Pages related
